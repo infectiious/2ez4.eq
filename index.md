@@ -14,7 +14,7 @@
         <div id="inner">
             <img src="assets/logo.svg" alt="Crypts logo" id="logo">
             <h1>2 EZ 4 EQ</h1>
-            <p class="subtitle">We are sorry but you just aren't good enough!</p>
+            <p class="subtitle">We are sorry but you just aren't good enough especially you Bigbaggs you fuck.</p>
             <a href="#" class="cta cta--white ">Applications closed!</a>
         </div>
         <!-- inner sub id ends -->

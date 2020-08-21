@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background: #f4f4f4 url("../assets/candlebg.svg");
+    background: #f4f4f4 url("../assets/bg.jpg");
     background-size: cover;
 }
 
@@ -63,18 +63,18 @@ img#logo {
 
 h1 {
     text-transform: uppercase;
-    color: #535353;
+    color: #F5F5F5;
     margin-bottom: 0.2em;
 }
 
 p.subtitle {
     font-size: 1.4em;
-    color: #858585;
+    color: #F5F5F5;
     margin-top: 0;
 }
 
 .cta {
-    background-color: #09bbe9;
+    background-color: #DF1E1E;
     padding: 1em;
     color: #fff;
     font-weight: bold;
